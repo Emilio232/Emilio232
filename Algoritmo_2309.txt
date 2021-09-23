@@ -1,0 +1,11 @@
+Emilio Perales Olvera
+Actividad 1: Algoritmo para preparar un sàndwich
+1. Inicio
+2. Lavarse las Manos
+3. Agarrar dos trosos de pan
+4. Untar la mayonesa en el pan opcional(de los dos lados del pan)
+5. Poner un troso de Jamon
+6. Poner un troso de queso
+7. Tapar el sandwich con el otro troso de pan
+8. (Opcional) calentar el sandwich en la estufa
+8. Fin
