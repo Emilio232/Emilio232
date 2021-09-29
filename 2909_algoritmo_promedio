@@ -1,0 +1,32 @@
+ 29 Septiembre 2021
+ Actividad crear un Adgoritmo para obtener el promedio de 5 calificacìones
+ 
+ El programa debe mostrar lo siguiete
+ Dame la calificacìon 1 
+ 7
+ Dame la calificacìon 2
+ 7
+ Dame la calificacìon 3
+ 7
+ Dame la calificacìon 4
+ 7
+ Dame la calificacìon 5
+ 7
+ Dadas tus calificacìones,tu promedio seria de 7
+ 
+ Algoritmo
+ Inicio
+ Difinir cali1,cali2,cali3,cali4,cali5,promedio
+ imprimir "Dame la calificacìon 1:"
+ hacer1= entrada del usuario
+ imprimir "Dame la calificacìon 2:"
+ hacer2= entrada del usuario
+ imprimir "Dame la calificacìon 3:"
+ hacer3= entrada del usuario
+ imprimir "Dame la calificacìon 4:"
+ hacer4= entrada del usuario
+ imprimir "Dame la calificacìon 5:"
+ hacer5= entrada del usuario
+ hacer promedio = (cali1 + cali2 + cali3 + cali4 + cali5) /5
+ Imprimir "Dadas tus calificacìones,tu prmedio seria de "promedio
+ Fin
