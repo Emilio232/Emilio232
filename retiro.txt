@@ -1,0 +1,19 @@
+ALGORITMO PARA CALCULARLA EDAD DE RETIRO LABORAL
+Solicitar al usuario su edad
+Solicitar al usuario la edad ala quese quiere retirar
+Sabiendo el año actual(2021),motrar al usuario
+La cantidad de años que le falta para su retiro
+El año en el que se retirara
+
+
+Por ejemplo la consola deberia mostrar lo siguiente
+
+Que edad tienes?
+13
+A que edad pretendes retiarte ?
+65
+En el año 2021 por lo tanto te retiraras dentro de 52 añosen el año 2065
+
+
+Piensa en las operaciones que deberas hacer para poder obtener los datos 
+Inicio
