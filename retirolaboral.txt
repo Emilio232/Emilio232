@@ -5,7 +5,7 @@ Sabiendo el año actual(2021),motrar al usuario
 La cantidad de años que le falta para su retiro
 El año en el que se retirara
 
-
+Inicio
 Por ejemplo la consola deberia mostrar lo siguiente
 
 Que edad tienes?
@@ -16,4 +16,4 @@ En el año 2021 por lo tanto te retiraras dentro de 52 añosen el año 2065
 
 
 Piensa en las operaciones que deberas hacer para poder obtener los datos 
-Inicio
+Fin
